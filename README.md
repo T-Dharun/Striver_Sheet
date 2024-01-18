@@ -1,7 +1,16 @@
-# Striver_Sheet
-### It gives problems based on data structures and algorithm . It helps to understand core concept of th language.
-> It provide strong understanding of the concepts.
+# Striver Sheet - Problem solving
+## Overview
 
-> It helps to solve complex problems.
+This repository is dedicated to the comprehensive "Strivers Sheet", a curated collection of over 400 programming problems designed to enhance the problem-solving skills. As a committed learner, I aim to solve at least one problem daily and share my Java solutions with the community.
 
-> It helps to understand java
+## Java Mastery Journey :-
+
+>Learn Java through daily problems
+
+>Solve, share, and connect.
+
+>Build skills with diverse challenges.
+
+>Engage in open-source collaboration.
+
+>Grow through consistent coding.
