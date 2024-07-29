@@ -1,0 +1,22 @@
+class Solution{
+    Node removeDuplicates(Node head){
+        Node temp=head,ptr=null;
+        while(head!=null){
+            if(ptr!=null && head.data==ptr.data){
+                if(head.next==null){
+                    ptr.next=null;
+                }
+                else{
+                    ptr.next=head.next;
+                    head.next.prev=ptr;
+                }
+            }
+            else{
+                ptr=head;
+            }
+            head=head.next;
+        }
+        return temp;
+        
+    }
+}
